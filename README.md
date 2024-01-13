@@ -17,3 +17,5 @@ This is a simple counter app that allows users to count from zero to positive in
 - JavaScript
 
 
+## Live Link
+https://nooraalam1.github.io/counter_app/
